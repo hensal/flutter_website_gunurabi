@@ -1,16 +1,11 @@
-# example_practise_app
+# A simple website 
 
-A new Flutter project.
+UI:
 
-## Getting Started
+![guru1](https://github.com/user-attachments/assets/2ee829ea-29fe-4ea5-8de6-30f13ca700da)
 
-This project is a starting point for a Flutter application.
+![guru2](https://github.com/user-attachments/assets/923d57cd-2dc7-41c1-90b9-7c6d8fdf58b8)
 
-A few resources to get you started if this is your first Flutter project:
+![guru3](https://github.com/user-attachments/assets/407834ff-fae9-4a14-94f9-cfad5fd9db80)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
